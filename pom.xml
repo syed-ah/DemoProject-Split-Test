@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
    <modelVersion>4.0.0</modelVersion>
    <groupId>com.photon.phresco.service</groupId>
    <artifactId>DemoProject-Split</artifactId>
@@ -10,5 +10,6 @@
       <connection>https://github.com/syed-ah/DemoProject-Split-Test.git</connection>
       <developerConnection>scm:git:https://github.com/syed-ah/DemoProject-Split-Test.git</developerConnection>
       <url>scm:git:https://github.com/syed-ah/DemoProject-Split-Test.git</url>
-   </scm>
+     <tag>boston</tag>
+  </scm>
 </project>
