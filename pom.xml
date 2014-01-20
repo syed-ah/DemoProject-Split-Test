@@ -10,6 +10,6 @@
       <connection>https://github.com/syed-ah/DemoProject-Split-Test.git</connection>
       <developerConnection>scm:git:https://github.com/syed-ah/DemoProject-Split-Test.git</developerConnection>
       <url>scm:git:https://github.com/syed-ah/DemoProject-Split-Test.git</url>
-     <tag>boston</tag>
+     <tag>HEAD</tag>
   </scm>
 </project>
